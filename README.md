@@ -17,11 +17,11 @@ Esta es una base para que puedan modificar a su gusto sin miedo a nada
 ```bash
 > git clone https://github.com/Mikey69YT-BotDeveloper/Base-Bot
 > cd Base-Bot
-> npm install
+> ./install.sh
 ```
 ###### Iniciar
 ```bash
-> node app.js
+> node .
 ```
 
 ##### Autor / Creador : [`Mikey69YT`](https://GitHub.com/MK-Mods-OFC) 
