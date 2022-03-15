@@ -1,0 +1,7 @@
+{
+  "name": "MK-Bot",
+  "description": "WhatsApp Bot echo en base a Nodejs",
+  "repository": "https://github.com/MK-Mods-OFC/MK-Bot",
+  "logo": "https://i.ibb.co/rksd9bC/gaty-2.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "MK-Bot"]
+}
