@@ -2865,7 +2865,7 @@ wa.me/+34698901397
                 description: `\nEste es el bot creado por Kevin`,
                 "rowId": `${prefix}`
                 }
-                }],
+                ]}
                 listType: 1
                 }
                 Fg.sendMessage(from, lisMsg, MessageType.listMessage, {contextInfo: { mentionedJid: [sender]},quoted:mek})
